@@ -1,0 +1,13 @@
+#heading{
+  text-align: center;
+  background: transparent;
+}
+
+#webform{
+  width: 50%;
+
+}
+
+.failedDB{
+  color: red;
+}
